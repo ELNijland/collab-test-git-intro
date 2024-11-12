@@ -1,2 +1,4 @@
 # collab-test-git-intro
-test
+Test repository to practice how to git
+
+
